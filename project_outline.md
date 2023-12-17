@@ -15,13 +15,13 @@ This project focuses on introducing you to Amazon Web Services (AWS) CloudFormat
     - Search for "CloudFormation" in the AWS Management Console and open it.
 4. **Upload Template**
     - Create a new stack by uploading a CloudFormation template.
-    - Select the 0_just_EC2.yaml file.
+    - Select the 0_just_ec2.yaml file.
 5. **Stack Creation**
     - Enter stack name as "demo-introduction."
     - Click "Next" and follow the prompts.
     - Review and create the stack.
 6. **Understanding the Template**
-    - Open the "0_just_EC2.yaml" template to examine its structure.
+    - Open the "0_just_ec2.yaml" template to examine its structure.
     - Defines an EC2 instance with properties like AMI ID, instance type, and availability zone (US East 1).
 7. **Stack Status and Resources**
     - Observe the CloudFormation stack progress, events, and resources.
