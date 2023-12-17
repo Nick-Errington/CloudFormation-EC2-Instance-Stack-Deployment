@@ -31,3 +31,5 @@ Before you begin, make sure you have the following prerequisites:
 - Basic understanding of AWS services and the AWS Management Console.
 
 ## Cleanup
+
+To clean up all resources created by CloudFormation, follow the steps provided [here](project_outline.md) under the "Resource Cleanup" section.
