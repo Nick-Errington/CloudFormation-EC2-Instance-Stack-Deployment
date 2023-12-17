@@ -8,11 +8,7 @@ This project provides an introduction to using AWS CloudFormation to deploy an E
 - [Project Instructions](#project-instructions)
 - [Screenshots](#screenshots)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Cleanup](#cleanup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -34,8 +30,4 @@ Before you begin, make sure you have the following prerequisites:
 - AWS CLI configured with appropriate permissions.
 - Basic understanding of AWS services and the AWS Management Console.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/Nick-Errington/cloudformation-ec2-stack.git
+## Cleanup
