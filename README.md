@@ -20,7 +20,7 @@ To follow this project, refer to the detailed project outline provided [here](pr
 
 ## Screenshots
 
-For visual guidance, you can find screenshots of the project in the "screenshots" directory.
+For visual guidance, you can find screenshots of the project [here](screenshots/).
 
 ## Prerequisites
 
