@@ -1,4 +1,4 @@
-# CloudFormation-EC2-Instance-Stack-Deployment
+# CloudFormation EC2 Instance Stack Deployment
 
 This project provides an introduction to using AWS CloudFormation to deploy an EC2 instance with security groups. It emphasizes understanding CloudFormation concepts rather than code syntax.
 
